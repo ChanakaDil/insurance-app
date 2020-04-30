@@ -17,7 +17,7 @@
     "facebook-chat-api": "github:Schmavery/facebook-chat-api",
     "flat-file-db": "^1.0.0",
     "i18n": "^0.8.3",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "moment": "^2.20.1",
     "node-telegram-bot-api": "^0.30.0",
     "skypeapi": "^0.2.4",
